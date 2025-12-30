@@ -1,6 +1,6 @@
-# News Monitoring & Email Automation Bot
+# Bitcoin Price Tracker
 
-## Overview
+Overview
 This project automatically fetches Bitcoin price data, processes it, tracks changes over time, and sends saves the data to a CSV file.
 
 ## How it works
